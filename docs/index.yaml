@@ -1,0 +1,12 @@
+apiVersion: v1
+entries:
+  notificationchart:
+  - apiVersion: v1
+    created: 2018-02-19T15:05:00.507606816-08:00
+    description: A Helm chart for Kubernetes
+    digest: b7bb83456be7b5aebb09bb4e3e8ea6c728f38bc4932538fd6b430e90f243f2e3
+    name: notificationchart
+    urls:
+    - https://nexjtraining.github.io/mycharts/notificationchart-0.1.0.tgz
+    version: 0.1.0
+generated: 2018-02-19T15:05:00.507198577-08:00
